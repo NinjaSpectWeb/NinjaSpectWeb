@@ -7,6 +7,7 @@ Ninja Spect was created to enhance online education and help students love learn
 
 ## Members
 Owner: [@samuraininja360](https://github.com/samuraininja360)
+
 Org: [@NinjaSpect](https://github.com/NinjaSpect)
 
 > The Organisation is still under development
